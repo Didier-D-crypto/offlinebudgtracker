@@ -49,7 +49,7 @@ THEN that will be shown on the page, and added to their transaction history when
 
   * Test your application before you commit to ensure functionality at every step in the development process
 
-* We would like you to have well over 200 commits by graduation, so 
+* We would like you to have well over 200 commits by 
 
 ## Submission on BCS
 
