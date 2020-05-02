@@ -14,6 +14,10 @@ When brought back online:
 
   * Offline entries should be added to tracker.
 
+
+
+  <a href="https://gyazo.com/2a7698e24d688cbd8b01dda5324d9c82"><img src="https://i.gyazo.com/2a7698e24d688cbd8b01dda5324d9c82.gif" alt="Image from Gyazo" width="1077.5"/></a>
+
 ## User Story
 AS AN avid traveller
 I WANT to be able to track my withdrawals and deposits with or without a data/internet connection
